@@ -1,0 +1,6 @@
+from xl_url_convert import download_address_translation
+address = download_address_translation('thunder://QUFodHRwOi8vZGwxNTAuODBzLmltOjkyMC8xNzEwL1vlkI3kvqbmjqLmn6/ljZdd56ysODkw6ZuG77ya6K+V6KGj6Ze055qE5q276KeS77yI5LiK6ZuG77yJL1vlkI3kvqbmjqLmn6/ljZdd56ysODkw6ZuG77ya6K+V6KGj6Ze055qE5q276KeS77yI5LiK6ZuG77yJX2JkLm1wNFpa')
+print(address.qqdl)
+print(address.origin)
+print(address.thunder)
+print(address.flashget)
