@@ -1,5 +1,5 @@
 # xl_url_convert
-迅雷下载地址转换库（Python3）
+迅雷下载地址转换库（Python3）by hupeng
 ## 0.环境要求 
 Python3.5及以上
 
@@ -37,4 +37,4 @@ print("qq旋风链接:" + address.qqdl)
 > 迅雷格式链接:thunder://QUFodHRwOi8vZGwxNTAuODBzLmltOjkyMC8xNzEwL1vD+9XszL2/wsTPXbXaODkwvK+jusrU0sK85LXEy8C9x6Ooyc+8r6OpL1vD+9XszL2/wsTPXbXaODkwvK+jusrU0sK85LXEy8C9x6Ooyc+8r6OpX2JkLm1wNFpa<br>
 > qq旋风链接:qqdl://aHR0cDovL2RsMTUwLjgwcy5pbTo5MjAvMTcxMC9bw/vV7My9v8LEz1212jg5MLyvo7rK1NLCvOS1xMvAvcejqMnPvK+jqS9bw/vV7My9v8LEz1212jg5MLyvo7rK1NLCvOS1xMvAvcejqMnPvK+jqV9iZC5tcDQ=
 
-**通过两个样例可以看到，这个库可以适配不同的下载地址**
+**通过两个样例可以看到，这个库可以适配不同的下载地址,并导出不同的下载地址**
